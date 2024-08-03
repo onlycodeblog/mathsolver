@@ -1,0 +1,32 @@
+body {
+    margin-top: 20px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0;
+
+    background-color:#FFFFFF;
+
+    font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    font-size:12px;
+    text-transform:uppercase;
+}
+
+#game-container {
+    margin: 0 auto;  /* Center the container horizontally */
+    width: 430px;     /* Example phone width */
+    height: 700px;    /* Example phone height */
+    border: 10px solid #000000;  /* Add a border */
+    border-radius: 10px;  /* Add rounded corners */
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#start_game {
+    margin: auto;
+    padding: 0px;
+    text-align: center;
+}

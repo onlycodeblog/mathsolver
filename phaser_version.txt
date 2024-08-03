@@ -1,0 +1,4 @@
+https://phaser.io/download/release/v2.20.0
+
+Phaser CE v2.20.0 was released on 13th December 2022.
+

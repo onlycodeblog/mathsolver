@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+
+  "name": "Maths Solver",
+  "short_name": "Maths Solver",
+  "description": "Challenge your mathematical IQ.",
+  "version": "1.0",
+  "icons": { 
+    "256":"icon/icon.png"
+  },
+
+  "action": {
+    "default_icon": "icon/icon.png",
+    "default_popup": "popup.html",
+    "default_title": "Maths Solver"
+  },
+  
+  "permissions": [
+    "storage"
+  ]
+}
